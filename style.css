@@ -19,20 +19,21 @@ body {
 .contacts {
   font-size: 14px;
   color: #ffffff;
+  margin-left: 40px;
 }
 
 .left-title {
   font-size: 22px;
   margin: 0;
   margin-top: 50px;
-  margin-left: 40px;
   color: #ffffff;
+  font-weight: 700;
 }
 
 .contacts-2 {
   display: flex;
   margin-top: 8px;
-  margin-left: 40px;
+  line-height: 24px;
 }
 
 .phone-email {
@@ -42,8 +43,22 @@ body {
 }
 
 .left-list {
+  margin-left: -21px;
+  font-weight: 400;
   margin-top: 3px;
-  margin-left: 40px;
   font-size: 14px;
   color: #ffffff;
+  line-height: 24px;
+  padding-left: 5px;
+  color: #FB6D3A ;
+}
+li span{
+  color: #ffffff;
+}
+
+.tech-skills{
+  margin-left: 40px;
+}
+.soft-skills{
+  margin-left: 40px;  
 }
